@@ -25,11 +25,12 @@
 ### 3.	Move the z3-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z3-axis assembly.
 
 ## OUTPUT:
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/10304caa-3e0f-4c4a-bd73-3cadb477a64b)
+![Screenshot 2023-11-22 025734](https://github.com/23004426/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/144979327/d770ad21-3174-4c78-b47a-ffe4fd3efd78)
+![Screenshot 2023-11-22 030024](https://github.com/23004426/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/144979327/9e117b09-ec4b-42a4-98ba-4473a6109b34)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
 
 ## Output:
+![Screenshot 2023-11-22 025942](https://github.com/23004426/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/144979327/ef857bfc-02b3-4608-b51b-f6c4b6e5ce4a)
 
 ### Name:
 ### Register Number:
