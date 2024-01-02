@@ -32,8 +32,8 @@
 ## Output:
 ![Screenshot 2023-11-22 025942](https://github.com/23004426/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/144979327/d274bb33-8836-49b1-82f8-546ba3449d16)
 
-### Name:
-### Register Number:
+### Name: Tirupathi Jayadeep
+### Register Number: 23004426
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
